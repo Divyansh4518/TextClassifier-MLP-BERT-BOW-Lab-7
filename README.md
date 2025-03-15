@@ -33,8 +33,7 @@ The project follows a **checkpoint-based training** approach and supports contin
 
 ### **1. Clone the Repository**
 ```sh
-git clone https://github.com/yourusername/MLP-Text-Classification.git
-cd MLP-Text-Classification
+https://github.com/Divyansh4518/TextClassifier-MLP-BERT-BOW-Lab-7.git
 ```
 
 ### **2. Install Dependencies**
