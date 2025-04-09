@@ -1,4 +1,5 @@
 # Text Classification using MLP (Bag-of-Words & Embeddings)
+Authors: Divyansh Saini, Gaurav Srivastava
 
 This repository contains an implementation of a **text classification model** using a **Multi-Layer Perceptron (MLP)**. Two feature extraction techniques are used in parallel:
 - **Bag-of-Words (BoW)** with `CountVectorizer`
